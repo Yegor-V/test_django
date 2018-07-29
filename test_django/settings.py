@@ -25,7 +25,7 @@ SECRET_KEY = '=tp_dmvo_4now(@3adrgp6#bk+*k$_jo*n&=mi*s1x$&1xbm_!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [195.110.58.183]
 
 
 # Application definition
